@@ -1,5 +1,4 @@
 # DoNotSleep
-===================
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 <img src="https://img.shields.io/badge/Windows-Executable-green">
 <br>
